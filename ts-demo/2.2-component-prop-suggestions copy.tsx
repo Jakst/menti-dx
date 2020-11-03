@@ -10,7 +10,7 @@ export const Comp1: VFC<HasLotsOfProperties> = () => {
 
 export const Comp2: VFC = () => {
   // Instructions:
-  // Place your cursor in the component and press "Ctrl + Spacebar" to get suggestions
-  // for props to put on the component.
-  return <Comp1 />
+  // Use Comp1 instead of null, place your cursor in the component and press "Ctrl + Spacebar"
+  // to get suggestions for props to put on the component.
+  return null
 }

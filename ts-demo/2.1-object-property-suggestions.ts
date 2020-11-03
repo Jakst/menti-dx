@@ -14,5 +14,5 @@ export const a: HasLotsOfProperties = {
   // (Make sure you haven't bound it to something else system wide)
   // This will suggest all available properties for this object, which
   // are not already filled in.
-  
+  johnny: false
 }
