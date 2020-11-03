@@ -12,7 +12,7 @@ Some factors that I classify as important for improving DX are
 
 With this little project I want to showcase some technology that could improve the Menti DX in several of these areas. I have prepared a github repo with some exercises to get a feel of these DX improvements in action, so that we can all have a sensible baseline when discussing DX.
 
-To continue with the exercises you should go to my github and [clone this repo](https://github.com/Jakst/mendti-dx), and then follow the instructions below.
+To continue with the exercises you should go to my github and [clone this repo](https://github.com/Jakst/menti-dx), and then follow the instructions below.
 
 ## Get started
 
@@ -22,11 +22,13 @@ To get started developing you need to do a couple of things.
 - Enable the builtin typescript plugin: Go to plugins and search for `@builtin typescript` and make sure both plugins are enabled. This is actually enabled by default in VSCode, but most Mentimeter devs have disabled it globally so they can run Flow instead.
 
 
-Finally, run `yarn dev` and then visit http://localhost:1337 to get this page running from your own machine!
+Finally, run `yarn dev` and then visit [http://localhost:1337](http://localhost:1337/) to get this page running from your own machine!
 
-There are two sets of exercises, one for [Fast Refresh](/fast-refresh) and one for [Typescript](/typescript).
+There are two sets of exercises
+- **[Fast Refresh](http://localhost:1337/fast-refresh)**
+- **[Typescript](http://localhost:1337/typescript)**
 
-Got to each page to run through the exercises and get a feel for the productivity wins that we could unlock in our codebases!
+Go to each page to run through the exercises and get a feel for the productivity wins that we could unlock in our codebases!
 
 ## Now what?
 
