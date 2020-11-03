@@ -1,41 +1,18 @@
-# TypeScript Next.js example
+# DX, what is it?
 
-This is a really simple project that shows the usage of Next.js with TypeScript.
+If you are a frontend developer, you primarily write code with the end user of the application in mind. However, there's a second user that you should always think about when writing code. The developer. We call the experiences that these two groups have **User Experience (UX)** and **Developer Experience (DX)**, and today I want to talk about DX.
 
-## Deploy your own
+Creating a good experience for the developer is crucial for maintaining both speed and motivation in a product organisation. However, it is often hard to defend spending time on DX while shipping code intended for the organisations primary focus, the user. Therefore I want TODO...
 
-Deploy the example using [Vercel](https://vercel.com):
+It is hard to talk concretely about DX because it can mean so many things, but to me I know the DX is good when I feel like I'm in a flow state. TODO....
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-typescript)
+- Decrease the cognitive load
+- Increase the output speed
+- Reduce friction
+- Speed up the feedback loop
 
-## How to use it?
+With this little project I want to showcase some technology that could improve the Menti DX in several of these areas. I have prepared a github repo with some examples of these DX improvements in action, so that you too can get a feel for what great DX can feel like.
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+-- INSTRUCTIONS --
 
-```bash
-npx create-next-app --example with-typescript with-typescript-app
-# or
-yarn create next-app --example with-typescript with-typescript-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
-
-## Notes
-
-This example shows how to integrate the TypeScript type system into Next.js. Since TypeScript is supported out of the box with Next.js, all we have to do is to install TypeScript.
-
-```
-npm install --save-dev typescript
-```
-
-To enable TypeScript's features, we install the type declarations for React and Node.
-
-```
-npm install --save-dev @types/react @types/react-dom @types/node
-```
-
-When we run `next dev` the next time, Next.js will start looking for any `.ts` or `.tsx` files in our project and builds it. It even automatically creates a `tsconfig.json` file for our project with the recommended settings.
-
-Next.js has built-in TypeScript declarations, so we'll get autocompletion for Next.js' modules straight away.
-
-A `type-check` script is also added to `package.json`, which runs TypeScript's `tsc` CLI in `noEmit` mode to run type-checking separately. You can then include this, for example, in your `test` scripts.
+[Read about what fast refresh can do for us](/fast-refresh)
