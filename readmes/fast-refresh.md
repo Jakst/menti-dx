@@ -1,4 +1,4 @@
-# Fast Refresh
+# Shorten the feedback loop with Fast Refresh
 
 React has attempted to implement reliable live reloading for some time now, but it is not until recently that a sustainable solution that didn't have loads of bugs emerged.
 

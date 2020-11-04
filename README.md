@@ -25,8 +25,8 @@ To get started developing you need to do a couple of things.
 Finally, run `yarn dev` and then visit [http://localhost:1337](http://localhost:1337/) to get this page running from your own machine!
 
 There are two sets of exercises
-- **[Fast Refresh](http://localhost:1337/fast-refresh)**
-- **[Typescript](http://localhost:1337/typescript)**
+- **[Shorten the feedback loop with Fast Refresh](http://localhost:1337/fast-refresh)**
+- **[Speed up development with suggestions from Typescript](http://localhost:1337/typescript)**
 
 Go to each page to run through the exercises and get a feel for the productivity wins that we could unlock in our codebases!
 

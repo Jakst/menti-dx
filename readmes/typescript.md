@@ -1,4 +1,4 @@
-# Typescript
+# Speed up development with suggestions from Typescript
 
 Flow is good type system. It has sound checks for correctness, a simple syntax, and great type inference. It has for sure helped us keep a lot bugs from going to production and improved the structure of our application. In other words, Flow has been of great help to Mentimeter.
 
