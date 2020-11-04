@@ -32,6 +32,7 @@ You can even find all missing imports with a single file in one command.
 
 When typescript doesn't know where a function is, you will still get auto completions on all imports to help you from struggling with relative paths.
 
+![](/path-hints.gif)
 
 ### Object property suggestions
 
