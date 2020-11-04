@@ -7,11 +7,11 @@ Yet when comparing Flow to Typescript, the usage graph looks like this.
 ![](/ts-vs-flow.png)
 Source: https://www.npmtrends.com/typescript-vs-flow-bin
 
-Flow has been crushed by Typescript from the beginning, and it's only accelerating. This is despite many people claiming Flow had a far superior system for type inference in the early years. Then why did it it not become more popular?
+Typescript has been used more widely from the beginning, and it's only accelerating. This is despite many people claiming Flow had a far superior system for type inference in the early years. Then why did it it not become more popular?
 
 Developer Experience!
 
-The Typescript authors have taken a different path than the authors of flow, and focused heavily on developer experience. Especially through the integrations with VSCode. This brought over far more developers than having an elegant type system. And in the last two or three years, the differences in the type systems have evened out with both solutions giving you superb type safety.
+The Typescript authors have taken a different path than the authors of Flow, and focused heavily on developer experience. Especially through the integrations with VSCode. This brought over far more developers than having an elegant type system. And in the last two or three years, the differences in the type systems have evened out with both solutions giving you superb type safety.
 
 In short, Flow is great at telling you when you're wrong, but does not do much to help you get it right. That's where Typescript shines.
 
