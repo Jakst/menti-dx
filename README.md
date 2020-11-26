@@ -16,8 +16,8 @@ To continue with the exercises you should go to my github and [clone this repo](
 
 ## Get started
 
-To get started developing you need to do a couple of things. 
-- First off, run `yarn install` to set the project up. 
+To get started developing you need to do a couple of things.
+- First off, run `yarn install` to set the project up.
 - Disable the flow plugin in VSCode
 - Enable the builtin typescript plugin: Go to plugins and search for `@builtin typescript` and make sure both plugins are enabled. This is actually enabled by default in VSCode, but most Mentimeter devs have disabled it globally so they can run Flow instead.
 
@@ -25,8 +25,8 @@ To get started developing you need to do a couple of things.
 Finally, run `yarn dev` and then visit [http://localhost:1337](http://localhost:1337/) to get this page running from your own machine!
 
 There are two sets of exercises
-- **[Shorten the feedback loop with Fast Refresh](http://localhost:1337/fast-refresh)**
-- **[Speed up development with suggestions from Typescript](http://localhost:1337/typescript)**
+- **[Shorten the feedback loop with Fast Refresh](/fast-refresh)**
+- **[Speed up development with suggestions from Typescript](/typescript)**
 
 Go to each page to run through the exercises and get a feel for the productivity wins that we could unlock in our codebases!
 
